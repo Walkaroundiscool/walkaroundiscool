@@ -1,48 +1,52 @@
 <div align="center">
 
-# 🌸 Hi there, I'm cuh! 🌸
+#  Hello folks, Call me cuh 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=ffffff" alt="Header Banner" />
+<img src="https://i.pinimg.com/736x/ed/21/5b/ed215bd6b5aea4c5461017ea9346809a.jpg" alt="Aesthetic Banner" width="100%" />
+*Asynchronous system design, vector space retrieval, and programmatic browser automatio.* 
 
-I'm a 19-year-old developer who loves building smart microservices, automating the web, and deep-diving into niche technical rabbit holes—all while keeping my interfaces strictly pastel and hot pink. 🎀
-
-🌍 **Speaking:** English | Français | العربية | Moroccan Darija  
-♟️ **Current Hyperfixations:** Chess Engines | Linguistics | Audio Engineering | Web Scraping  
+**Speaking:** English | Français | Arabic |.  
 
 </div>
 
 ---
 
-### 🤓 The Nerdy Stuffs (About Me)
+###  Projects & Fixations
 
-- ♟️ **Algorithmic Board Games:** I'm currently geeking out over building interactive web chess engines, complete with position heatmap visualizers, `chess.js`, and Minimax algorithms utilizing Alpha-Beta pruning.
-- 🗣️ **Linguistics & Syntax:** When I'm not coding, I'm studying academic linguistics. I love analyzing phonetic minimal pairs, historical language change through analogy, and transformational syntax.
-- 🎛️ **Audio Engineering Nerd:** I spend an unreasonable amount of time tweaking digital audio routing, dynamic range compression, and frequency bands in VoiceMeeter Banana, or playing with real-time VST plugins like Graillon 2 for pitch shifting.
-- 🤖 **Heavy Web Automation:** I build Node.js and Playwright scripts to automate the things I care about—like headless Microsoft Edge applications that generate and post my movie reviews directly to Letterboxd.
-- 🎨 **CSS Injection:** I refuse to use boring default interfaces. I actively write custom CSS snippets and override shadow DOM variables using extensions like Stylus to make my UI bubbles pastel and pink. 
-- 🧠 **Architecture & Search:** Exploring multimodal search apps, vector embeddings (FAISS), and OCR to index PDFs and audio transcripts.
+> **🎙️ Voice Recorder Microservice**  
+> <img src="https://img.shields.io/badge/Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-FF69B4?style=flat-square&logo=amazon-web-services&logoColor=white" />  
+> *Custom backend handling heavy audio transcription via Deepgram.*
+
+> ** Letterboxd Automator**  
+> <img src="https://img.shields.io/badge/Playwright-FF8DA1?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Express-FF8DA1?style=flat-square&logo=express&logoColor=white" />  
+> *Local headless tool using Gemini to auto-generate and publish movie reviews.*
+
+> ** Multimodal Search Engine**  
+> <img src="https://img.shields.io/badge/FAISS-FFB6C1?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-FFB6C1?style=flat-square&logo=openai&logoColor=white" />  
+> *Designing vector-embedded architectures to index PDFs and audio.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<div align="center">
-  <p><strong>Languages & Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,html,css&theme=light" alt="Languages and Frameworks" />
-  </a>
+<div align="left">
   
-  <br><br>
-  
-  <p><strong>Tools, Cloud & Environment</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,discord,playwright,vscode,windows&theme=light" alt="Tools and Automation" />
-  </a>
+  #### **Languages**
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
+
+  #### **Tools & Environment**
+  <img src="https://img.shields.io/badge/Discord.js-FF8DA1?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF8DA1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-FF8DA1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Walkaroundiscool&show_icons=true&theme=pastel&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333&icon_color=ff69b4" alt="GitHub Stats" />
