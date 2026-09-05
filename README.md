@@ -29,18 +29,30 @@
 
 ###  Tech Stack
 
-<div align="left">
+
   
   #### **Languages**
+ <div align="left">
+  
+
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-FFB6C1?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-FFB6C1?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FFB6C1?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_/_Shell-FFB6C1?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
 
-  #### **Tools & Environment**
-  <img src="https://img.shields.io/badge/Discord.js-FF8DA1?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF8DA1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-FF8DA1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
