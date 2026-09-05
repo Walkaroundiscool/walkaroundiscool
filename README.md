@@ -38,13 +38,9 @@
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-FFB6C1?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-FFB6C1?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FFB6C1?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=for-the-badge&logo=kotlin&logoColor=white" />
