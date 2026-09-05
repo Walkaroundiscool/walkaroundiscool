@@ -1,22 +1,55 @@
-<h1 align="center">Hi i'm cuhduh</h1>
-<h3 align="center">A teenager who loves coding since his childhood</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walkingaroundiscool&label=Profile%20views&color=0e75b6&style=flat" alt="walkingaroundiscool" /> </p>
+# 🌸 Hi there, I'm cuh! 🌸
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walkingaroundiscool" alt="walkingaroundiscool" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=ffffff" alt="Header Banner" />
 
-<p align="left"> <a href="https://twitter.com/cuh" target="blank"><img src="https://img.shields.io/twitter/follow/cuh?logo=twitter&style=for-the-badge" alt="cuh" /></a> </p>
+I'm a 19-year-old developer who loves building smart microservices, automating the web, and deep-diving into niche technical rabbit holes—all while keeping my interfaces strictly pastel and hot pink. 🎀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuh" height="30" width="40" /></a>
-</p>
+🌍 **Speaking:** English | Français | العربية | Moroccan Darija  
+♟️ **Current Hyperfixations:** Chess Engines | Linguistics | Audio Engineering | Web Scraping  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walkingaroundiscool&show_icons=true&locale=en&layout=compact" alt="walkingaroundiscool" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walkingaroundiscool&show_icons=true&locale=en" alt="walkingaroundiscool" /></p>
+### 🤓 The Nerdy Stuffs (About Me)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walkingaroundiscool&" alt="walkingaroundiscool" /></p>
+- ♟️ **Algorithmic Board Games:** I'm currently geeking out over building interactive web chess engines, complete with position heatmap visualizers, `chess.js`, and Minimax algorithms utilizing Alpha-Beta pruning.
+- 🗣️ **Linguistics & Syntax:** When I'm not coding, I'm studying academic linguistics. I love analyzing phonetic minimal pairs, historical language change through analogy, and transformational syntax.
+- 🎛️ **Audio Engineering Nerd:** I spend an unreasonable amount of time tweaking digital audio routing, dynamic range compression, and frequency bands in VoiceMeeter Banana, or playing with real-time VST plugins like Graillon 2 for pitch shifting.
+- 🤖 **Heavy Web Automation:** I build Node.js and Playwright scripts to automate the things I care about—like headless Microsoft Edge applications that generate and post my movie reviews directly to Letterboxd.
+- 🎨 **CSS Injection:** I refuse to use boring default interfaces. I actively write custom CSS snippets and override shadow DOM variables using extensions like Stylus to make my UI bubbles pastel and pink. 
+- 🧠 **Architecture & Search:** Exploring multimodal search apps, vector embeddings (FAISS), and OCR to index PDFs and audio transcripts.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p><strong>Languages & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,html,css&theme=light" alt="Languages and Frameworks" />
+  </a>
+  
+  <br><br>
+  
+  <p><strong>Tools, Cloud & Environment</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,discord,playwright,vscode,windows&theme=light" alt="Tools and Automation" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Walkaroundiscool&show_icons=true&theme=pastel&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333&icon_color=ff69b4" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walkaroundiscool&layout=compact&theme=pastel&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
