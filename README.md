@@ -11,9 +11,9 @@
 
 ---
 
-###  Projects & Fixations
+### Projects & Fixations
 
-> ** Voice Recorder Microservice**  
+> **🎙️ Voice Recorder Microservice**  
 > <img src="https://img.shields.io/badge/Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-FF69B4?style=flat-square&logo=amazon-web-services&logoColor=white" />  
 > *Custom backend handling heavy audio transcription via Deepgram.*
 
@@ -27,7 +27,7 @@
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 #### **Languages**
 <div align="left">
@@ -50,13 +50,28 @@
 
 ---
 
-###  GitHub Stats
+### ⚙️ Environment & Toolchain
 
-<div align="center">
+<div align="left">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walkaroundiscool&theme=rose-pine&hide_border=true&color=ff69b4&line=ff69b4&point=ffb6c1&background=ffe4e1" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-FFB6C1?style=for-the-badge&logo=windows&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terminal-Bash%20%2F%20Zsh-FFB6C1?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audio-VoiceMeeter%20%2F%20Graillon%202-FF8DA1?style=for-the-badge&logo=soundcharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code%20(Pink%20Theme)-FF8DA1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Last.fm-cuhduh-FFB6C1?style=for-the-badge&logo=last.fm&logoColor=white" />
+
 </div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
+  <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
+  
+  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
