@@ -3,7 +3,7 @@
 # Hello folks, Call me cuh 
 
 <img src="https://i.pinimg.com/736x/ed/21/5b/ed215bd6b5aea4c5461017ea9346809a.jpg" alt="Aesthetic Banner" width="100%" />
-*Asynchronous system design, vector space retrieval, and programmatic browser automatio.* 
+*Asynchronous system design, vector space retrieval, and programmatic browser automation.* 
 
 **Speaking:** English | Français | Arabic |.  
 
@@ -13,7 +13,7 @@
 
 ###  Projects & Fixations
 
-> **🎙️ Voice Recorder Microservice**  
+> ** Voice Recorder Microservice**  
 > <img src="https://img.shields.io/badge/Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-FF69B4?style=flat-square&logo=amazon-web-services&logoColor=white" />  
 > *Custom backend handling heavy audio transcription via Deepgram.*
 
@@ -58,8 +58,8 @@
 
   <br><br>
 
-  <a href="https://lastfm-last-played.vercel.app">
-    <img src="https://lastfm-last-played.vercel.app/api?username=cuhduh&theme=rose_pine" alt="Last.fm Scrobble" />
+  <a href="https://www.last.fm/user/cuhduh">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=cuhduh&count=3&accent_color=ff69b4&bg_color=ffe4e1&text_color=333333" alt="Last.fm Scrobble" />
   </a>
 
   <br><br>
