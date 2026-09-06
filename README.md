@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hello folks, Call me cuh 
+# Hello folks, Call me cuh 
 
 <img src="https://i.pinimg.com/736x/ed/21/5b/ed215bd6b5aea4c5461017ea9346809a.jpg" alt="Aesthetic Banner" width="100%" />
 *Asynchronous system design, vector space retrieval, and programmatic browser automatio.* 
@@ -29,11 +29,8 @@
 
 ###  Tech Stack
 
-
-  
-  #### **Languages**
- <div align="left">
-  
+#### **Languages**
+<div align="left">
 
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -49,7 +46,6 @@
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
 
-
 </div>
 
 ---
@@ -57,6 +53,16 @@
 ###  GitHub Stats
 
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/Walkaroundiscool/Walkaroundiscool/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+  <br><br>
+
+  <a href="https://lastfm-last-played.vercel.app">
+    <img src="https://lastfm-last-played.vercel.app/api?username=cuhduh&theme=rose_pine" alt="Last.fm Scrobble" />
+  </a>
+
+  <br><br>
 
   <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
   <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
