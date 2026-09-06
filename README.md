@@ -50,13 +50,12 @@
 
 ---
 
-### ⚙️ Environment & Toolchain
+###  Environment & Toolchain
 
 <div align="left">
 
   <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-FFB6C1?style=for-the-badge&logo=windows&logoColor=black" />
   <img src="https://img.shields.io/badge/Terminal-Bash%20%2F%20Zsh-FFB6C1?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audio-VoiceMeeter%20%2F%20Graillon%202-FF8DA1?style=for-the-badge&logo=soundcharts&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code%20(Pink%20Theme)-FF8DA1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Last.fm-cuhduh-FFB6C1?style=for-the-badge&logo=last.fm&logoColor=white" />
 
