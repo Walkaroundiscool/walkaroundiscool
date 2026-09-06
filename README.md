@@ -57,11 +57,12 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walkaroundiscool&show_icons=true&theme=pastel&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333&icon_color=ff69b4" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walkaroundiscool&layout=compact&theme=pastel&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
+  <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
+  
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
 </div>
