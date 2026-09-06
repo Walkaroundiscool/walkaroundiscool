@@ -55,14 +55,8 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_MICROSERVICES-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/FOCUS-VECTOR_SEARCH_%26_AUTOMATION-FF8DA1?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walkaroundiscool&theme=rose-pine&hide_border=true&color=ff69b4&line=ff69b4&point=ffb6c1&background=ffe4e1" alt="Contribution Graph" />
 </div>
-
-  <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
-  <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
-  
-  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
