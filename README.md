@@ -54,15 +54,10 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Walkaroundiscool/Walkaroundiscool/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-  <br><br>
-
-  <a href="https://www.last.fm/user/cuhduh">
-    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=cuhduh&count=3&accent_color=ff69b4&bg_color=ffe4e1&text_color=333333" alt="Last.fm Scrobble" />
-  </a>
-
-  <br><br>
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_MICROSERVICES-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-VECTOR_SEARCH_%26_AUTOMATION-FF8DA1?style=for-the-badge&logo=probot&logoColor=white" />
+</div>
 
   <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
   <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
