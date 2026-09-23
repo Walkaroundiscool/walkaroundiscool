@@ -19,7 +19,7 @@
 
 > ** Letterboxd Automator**  
 > <img src="https://img.shields.io/badge/Playwright-FF8DA1?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Express-FF8DA1?style=flat-square&logo=express&logoColor=white" />  
-> *Local headless tool using Gemini to auto-generate and publish movie reviews.*
+> *Local headless tool & auto-generate and publish movie reviews.*
 
 > ** Multimodal Search Engine**  
 > <img src="https://img.shields.io/badge/FAISS-FFB6C1?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-FFB6C1?style=flat-square&logo=openai&logoColor=white" />  
