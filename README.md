@@ -2,7 +2,7 @@
 
 # Hello folks, Call me cuh 
 
-<img src="https://i.pinimg.com/736x/ed/21/5b/ed215bd6b5aea4c5461017ea9346809a.jpg" alt="Aesthetic Banner" width="100%" />
+<img src="https://i.pinimg.com/1200x/3c/b5/67/3cb5671ca1c6784f22e766a8c8c2c7d0.jpg" alt="Aesthetic Banner" width="100%" />
 *Asynchronous system design, vector space retrieval, and programmatic browser automation.* 
 
 **Speaking:** English | Français | Arabic |.  
