@@ -1,77 +1,19 @@
-<div align="center">
+#  About Me:
+Hi, call me cuh !
+#  Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vxc2&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vxc2&theme=city_lights&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vxc2&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Hello folks, Call me cuh 
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://i.pinimg.com/1200x/3c/b5/67/3cb5671ca1c6784f22e766a8c8c2c7d0.jpg" alt="Aesthetic Banner" width="100%" />
-*Asynchronous system design, vector space retrieval, and programmatic browser automation.* 
-
-**Speaking:** English | Français | Arabic |.  
-
-</div>
-
----
-
-### Projects & Fixations
-
-> **🎙️ Voice Recorder Microservice**  
-> <img src="https://img.shields.io/badge/Node.js-FF69B4?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-FF69B4?style=flat-square&logo=amazon-web-services&logoColor=white" />  
-> *Custom backend handling heavy audio transcription via Deepgram.*
-
-> ** Letterboxd Automator**  
-> <img src="https://img.shields.io/badge/Playwright-FF8DA1?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Express-FF8DA1?style=flat-square&logo=express&logoColor=white" />  
-> *Local headless tool & auto-generate and publish movie reviews.*
-
-> ** Multimodal Search Engine**  
-> <img src="https://img.shields.io/badge/FAISS-FFB6C1?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-FFB6C1?style=flat-square&logo=openai&logoColor=white" />  
-> *Designing vector-embedded architectures to index PDFs and audio.*
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vxc2&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vxc2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Tech Stack
-
-#### **Languages**
-<div align="left">
-
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-FFB6C1?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-FFB6C1?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FFB6C1?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_/_Shell-FFB6C1?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
-
----
-
-###  Environment & Toolchain
-
-<div align="left">
-
-  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-FFB6C1?style=for-the-badge&logo=windows&logoColor=black" />
-  <img src="https://img.shields.io/badge/Terminal-Bash%20%2F%20Zsh-FFB6C1?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code%20(Pink%20Theme)-FF8DA1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Last.fm-cuhduh-FFB6C1?style=for-the-badge&logo=last.fm&logoColor=white" />
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/Walkaroundiscool?label=Followers&style=for-the-badge&color=FFB6C1&logo=github" />
-  <img src="https://img.shields.io/github/stars/Walkaroundiscool?style=for-the-badge&color=FF8DA1&logo=github" />
-  
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Walkaroundiscool&color=ffb6c1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
